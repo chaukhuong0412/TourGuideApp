@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.android.tourguideapp.DiningActivity">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:alpha="0.5" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <ImageView
+                    style="@style/ImageViewInDiningActivity"
+                    android:id="@+id/banh_mi_icon"
+                    android:src="@drawable/banh_mi" />
+
+                <TextView
+                    style="@style/TextViewInDiningActivity"
+                    android:fontFamily="sans-serif"
+                    android:text="@string/category_banhmi"
+                    android:textAlignment="center" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/pho_icon"
+                    style="@style/ImageViewInDiningActivity"
+                    android:scaleType="center"
+                    android:src="@drawable/pho" />
+
+                <TextView
+                    style="@style/TextViewInDiningActivity"
+                    android:fontFamily="sans-serif"
+                    android:text="@string/category_pho"
+                    android:textAlignment="center" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/com_tam_icon"
+                    style="@style/ImageViewInDiningActivity"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/com_tam" />
+
+                <TextView
+                    style="@style/TextViewInDiningActivity"
+                    android:fontFamily="sans-serif"
+                    android:text="@string/category_comtam"
+                    android:textAlignment="center" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/bun_thit_icon"
+                    style="@style/ImageViewInDiningActivity"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/bun_thit_nuong" />
+
+                <TextView
+                    style="@style/TextViewInDiningActivity"
+                    android:fontFamily="sans-serif"
+                    android:text="@string/category_bunthit"
+                    android:textAlignment="center" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>

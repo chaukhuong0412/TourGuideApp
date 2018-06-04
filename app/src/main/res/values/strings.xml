@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">Tour Guide App</string>
+    <string name="category_comtam">Com Tam</string>
+    <string name="category_pho">Pho</string>
+    <string name="category_bunthit">Bun Thit</string>
+    <string name="category_banhmi">Banh Mi</string>
+    <string name="category_places">Places</string>
+    <string name="category_dining">Dining</string>
+    <string name="category_stay">Hotels</string>
+    <string name="category_trip">Trips</string>
+    <string name="state_openning">openning</string>
+    <string name="state_closed">closed</string>
+    <string name="places">places</string>
+    <string name="dining">dining</string>
+    <string name="stay">stay</string>
+    <string name="trips">trips</string>
+
+    <string name="banhmi_hoian_name">Banh Mi Hoi An</string>
+    <string name="banhmi_hoian_address">169 Nguyen Thai Hoc, District 1</string>
+    <string name="banhmi_the_name">The Banh Mi</string>
+    <string name="banhmi_the_address">90 Yen The, District 5</string>
+    <string name="banhmi_chao_name">Banh Mi Chao</string>
+    <string name="banhmi_chao_address">92 Nguyen Hue, District 1</string>
+    <string name="banhmi_hoama_name">Banh Mi Hoa Ma</string>
+    <string name="banhmi_hoama_address">53 Cao Thang, District 1</string>
+
+    <string name="bunthit_haidang_name">Bun Thit Hai Dang</string>
+    <string name="bunthit_haidang_address">169 Nguyen Thai Hoc, District 1</string>
+    <string name="bunthi_anhba_name">Bun Thit Anh Ba</string>
+    <string name="bunthit_anhba_address">90 Yen The, District 5</string>
+    <string name="bunthit_kieubao_name">Bun Thit Kieu Bao</string>
+    <string name="bunthit_kieubao_address">92 Nguyen Hue, District 1</string>
+    <string name="bunthit_thoiquan_name">Bun Thit Thoi Quan</string>
+    <string name="bunthit_thoiquan_address">53 Cao Thang, District 1</string>
+
+    <string name="comtam_kieugiang_name">Com Tam Kieu Giang</string>
+    <string name="comtam_kieugiang_address">169 Nguyen Thai Hoc, District 1</string>
+    <string name="comtam_cali_name">Com Tam Cali</string>
+    <string name="comtam_cali_address">90 Yen The, District 5</string>
+
+    <string name="pho_hoa_name">Pho Hoa</string>
+    <string name="pho_hoa_address">93C Pasteur, District 3</string>
+    <string name="pho_24h_name">Pho 24h</string>
+    <string name="pho_24h_address">90 Yen The, District 5</string>
+
+    <string name="from">From: </string>
+    <string name="usd_to">USD to</string>
+    <string name="usd">USD</string>
+
+    <string name="h00_to">h00 to </string>
+    <string name="h00">h00</string>
+
+    <string name="type">Type: </string>
+
+    <string name="reunification_palace_name">Reunification Palace</string>
+    <string name="reunification_palace_address">135 Nam Ky Khoi Nghia Street, District 1, Ho Chi Minh City</string>
+
+    <string name="notre_dame_name">Notre Dame Cathedral</string>
+    <string name="notre_dame_address">1 Cong Xa Paris, District 1, Ho Chi Minh City</string>
+
+    <string name="historical_place">Historical place</string>
+    <string name="church">Church</string>
+
+    <string name="hotel_newworld_name">New World</string>
+    <string name="hotel_newworld_address">192 Tran Quang Khai Street, District 1, Ho Chi Minh City</string>
+    <string name="hotel_sheraton_name">Sheraton</string>
+    <string name="hotel_sheraton_address">12 Dong Khoi, District 1, Ho Chi Minh City</string>
+    <string name="hotel_novotel_name">Novotel</string>
+    <string name="hotel_novotel_address">36 Ho Tung Mau Street, District 1, Ho Chi Minh City</string>
+
+    <string name="duration">Duration: </string>
+    <string name="day"> day(s)</string>
+    <string name="cost">Cost: </string>
+
+    <string name="mekong_tour">Mekong Delta Full-Day Speedboat Ho Chi Minh City Tour</string>
+    <string name="saigon_river_tour">Saigon River Speedboat</string>
+
+
+</resources>
